@@ -1,8 +1,7 @@
 ---
-title: "Privacy & Policy"
-subtitle: ""
-# meta description
-description: "This is meta description"
+title: Privacy & Policy
+subtitle: ''
+description: This is meta description
 draft: false
 ---
 
